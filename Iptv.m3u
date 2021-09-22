@@ -385,13 +385,6 @@ http://103.205.133.19/hls/chs.m3u8
 
 http://103.205.133.19/hls/chsp.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Radiant-BDIX (সবার চলবে না)", Zee TV
-
-http://103.205.133.19/hls/zeetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Radiant-BDIX (সবার চলবে না)", Sony Pix
-
-http://103.205.133.19/hls/sonypix.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Radiant-BDIX (সবার চলবে না)", 9X Music
 http://103.205.133.19/hls/9xm.m3u8
