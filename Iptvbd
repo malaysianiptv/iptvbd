@@ -17,6 +17,8 @@ http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
 http://103.205.133.19/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Maasranga_Television#/media/File%3AMaasranga_Television_Logo.jpg" group-title="Bangla",Masranga HD
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla", Desh TV
