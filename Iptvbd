@@ -57,7 +57,7 @@ http://103.205.133.40/hls/deeptotv.m3u8
 http://103.205.133.40/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
 http://103.159.4.38:8080/BD-BANGLA-12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgu5r.com/K43LsMQ.png" group-title="Bangla", Bangla TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla TV
 http://103.159.4.38:8080/BD-BANGLA-17/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
@@ -74,7 +74,7 @@ http://jupiter.bdcabletv.com/ColorsBangla_ENC/video.m3u8
 http://103.205.133.40/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in" group-title="Bangla", Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla SD
 http://103.205.133.40/hls/zeebanglahd.m3u8
