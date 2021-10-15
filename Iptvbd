@@ -230,8 +230,8 @@ http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick HD
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick hindi
+http://103.153.39.34:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon", Nick Junior Hindi
 http://103.153.39.34:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama Tv 
