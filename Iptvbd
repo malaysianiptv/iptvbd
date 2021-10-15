@@ -106,7 +106,7 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD
 http://103.205.133.40/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
-http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
@@ -131,7 +131,7 @@ http://103.205.133.40/hls/andtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English", Animal Planet HD
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="English",Animax HD
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English", Discovery Science
@@ -139,17 +139,17 @@ https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English", Discovery Turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English", History Channel
-http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Hindi
 http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla
 http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English", National Geographic Wild
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery Hindi
-https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English", TLC SD Hindi
-http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English", TLC HD
+http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
 http://watchindia.net:8880/live/33253/72963/2103.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
@@ -181,9 +181,9 @@ http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://jupiter.bdcabletv.com/ENC-19/video.m3u8
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
-http://103.159.4.38:8080/SPORTS-9/index.m3u8
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
@@ -227,7 +227,7 @@ http://103.159.4.38:8080/KIDS-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network SD
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay Bangla
-http://103.81.104.118/hls/sonyyay.m3u8
+http://103.205.133.40/hls/sonyyay.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Diseny channel 2
@@ -238,16 +238,14 @@ http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
-http://103.153.39.34:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick HD
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon", Nick Junior Hindi
 http://103.153.39.34:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama Tv 
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="Cartoon", Hungama Tv 2
-http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden (BDIX)
-http://103.159.4.38:8080/KIDS-3/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon",Discovery Kids
 https://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 
