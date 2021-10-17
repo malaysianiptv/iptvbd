@@ -178,7 +178,7 @@ http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
 https://snehz5tvnew.herokuapp.com?c=0-9-zeecafehd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8l
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English", Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
@@ -215,10 +215,6 @@ http://bosstr.net/live/cat54/DpbYpXOhHn/27084.m3u8
 http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network HD
-http://103.159.4.38:8080/KIDS-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network SD
 http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay Bangla
@@ -247,7 +243,7 @@ https://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9XM
-http://103.205.133.40/hls/9xm.m3u8
+http://103.78.255.178:8080/9xm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV HD
 http://212.224.98.196:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music
