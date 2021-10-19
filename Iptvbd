@@ -137,7 +137,7 @@ https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English", Discovery Turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English", History Channel
-https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+http://jo123.biz/jweb/m3u8.php?c=History_TV18_SD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Hindi
 http://103.153.39.34:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla
@@ -145,13 +145,13 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English", National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD
-https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Discovery&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English", TLC HD
 http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg" group-title="News", CNN International
-http://tvflix00.hopto.org/hls/cnn.m3u8
+http://jo123.biz/jweb/m3u8.php?c=CNN_NEWS_18&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/800px-BBC_News_2019.svg.png" group-title="News", BBC World News
-http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+http://jo123.biz/jweb/m3u8.php?c=BBC_World_News&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News", Al Jazeera
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/live-orgin/aljazeera.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-08-at-2.28.31-PM.png" group-title="News",NewsMax TV
@@ -171,21 +171,18 @@ http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
-https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="English", FX HD
 http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
 https://snehz5tvnew.herokuapp.com?c=0-9-zeecafehd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English", Movies Now HD
-http://watchindia.net:8880/live/33253/72963/2102.ts
+http://jo123.biz/jweb/m3u8.php?c=HBO_HD&q=800&e=junk.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery ID
 http://idvd.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English", Rush Channel
-
 
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
@@ -193,13 +190,13 @@ http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://tvflix00.hopto.org/hls/chst1.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Ten_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
-http://tvflix00.hopto.org/hls/chst2.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Ten2_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
-http://tvflix00.hopto.org/hls/chst3.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Ten3_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://tvflix00.hopto.org/hls/chsp1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
