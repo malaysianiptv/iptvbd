@@ -42,9 +42,9 @@ https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
 http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
-http://jupiter.bdcabletv.com/Ekattor-HD-IRD/video.m3u8
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1635390577&md5=qYu-bttjgFTJcaEZTL-kKg&user=49729ec489674ef3912b6d7cd0822923
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla", Asian TV 
-https://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?expires=1635474748&md5=18EKv5n671ZFd0EO261JXw&user=49729ec489674ef3912b6d7cd0822923
 #EXTINF:-1 tvg-logo="https://imgur.com/McQwv50.png" group-title="Bangla", SATV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
@@ -149,7 +149,7 @@ http://212.224.98.196:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg" group-title="News", CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/800px-BBC_News_2019.svg.png" group-title="News", BBC World News
-http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8?expires=1635475301&md5=sIf806tf24JvcrF36xo8IA&user=49729ec4896d0822923
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News", Al Jazeera
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/live-orgin/aljazeera.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News", Times Now HD
