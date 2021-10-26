@@ -40,7 +40,7 @@ https://piratesiptv.shortcm.li/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
-http://103.40.226.94:8080/hls/channel_1.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635385974&md5=a5lV-A-J-US7YlJOKR6PlA&user=49729ec489674ef3912b6d7cd0822923
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1635390577&md5=qYu-bttjgFTJcaEZTL-kKg&user=49729ec489674ef3912b6d7cd0822923
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla", Asian TV 
