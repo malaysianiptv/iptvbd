@@ -111,9 +111,9 @@ http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 http://212.224.98.196:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
-http://212.224.98.196:2200/R-EX/HINDI_ZEE_ACTION-in/index.m3u8?token=
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
-https://snehz5tvnew.herokuapp.com?c=0-9-zeeclassic
+https://sneh-zee5tv-1.up.railway.app?c=0-9-zeeclassic
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
@@ -149,11 +149,9 @@ http://212.224.98.196:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg" group-title="News", CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/800px-BBC_News_2019.svg.png" group-title="News", BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News", Al Jazeera
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/live-orgin/aljazeera.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-08-at-2.28.31-PM.png" group-title="News",NewsMax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News", Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png" group-title="News", CNBC 18
@@ -167,7 +165,7 @@ https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
 http://103.153.39.34:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
-http://103.81.104.118/hls/axn.m3u8
+http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
