@@ -197,7 +197,7 @@ http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+jioo.php?c=Ten_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
 http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=TIPSLAB
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
