@@ -82,6 +82,8 @@ https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
 https://last.gcdn.co/IND395/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Bangla", Akash Aath
+http://65.2.4.240/jioo.php?c=Aakaash_bangla&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
 https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Entertainment", Travel XP
@@ -111,6 +113,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/193
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 http://5giptv.me:8880/34516317/55678974/179148
+#EXTINF:-1 tvg-logo=" " group-title="Hindi", B4U Movies
+http://65.2.4.240/jioo.php?c=B4U_Movies&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
@@ -249,6 +253,12 @@ https://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://snoidcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Music", 9X Jalwa
+http://65.2.4.240/jioo.php?c=9X_Jalwa&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Music", Zing
+http://65.2.4.240/jioo.php?c=Zing&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Music", B4U Music
+http://65.2.4.240/jioo.php?c=B4U_Music&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
 http://65.2.4.240/jioo.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qsh4GFZflFJBVcJd_2zsIWQpvgc7lm_2qA&usqp=CAU" group-title="Music",Music India
