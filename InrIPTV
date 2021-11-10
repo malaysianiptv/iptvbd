@@ -217,7 +217,7 @@ http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_2.m3u8
+http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
 https://last.gcdn.co/IND388/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
@@ -235,7 +235,7 @@ http://103.153.39.34:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
 http://65.2.4.240/jioo.php?c=Pogo_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick
-
+http://65.2.4.240/jioo.php?c=Nick_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
