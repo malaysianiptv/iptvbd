@@ -204,8 +204,8 @@ http://65.2.4.240/jioo.php?c=Ten_2&q=800&e=junk.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2 HD
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178Channel
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
