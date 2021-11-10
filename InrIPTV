@@ -151,7 +151,7 @@ https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/e3b5bdbc-a437-41f1-81f0-67c9257622fc.jpg" group-title="Infotainment", CGTN
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="News",Fox Sports News HD 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE07vClDIRtuOnRcMh72JSKckpnhS0eyTa1Q&usqp=CAU" group-title="News",Fox Sports News HD 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg" group-title="News", CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
