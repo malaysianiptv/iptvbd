@@ -138,7 +138,7 @@ https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Infotainment", Discovery Turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment", History Channel
-http://65.2.4.240/jioo.php?c=History_18_Hindi&q=600&e=junk.m3u8
+http://65.2.4.240/jioo.php?c=History_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment", National Geographic HD
 https://last.gcdn.co/IND414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Infotainment", National Geographic Wild
