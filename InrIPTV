@@ -108,7 +108,7 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_SAB&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",Sony Max 2 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2
-
+http://58.27.219.166:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/193
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
@@ -176,7 +176,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="News", DW
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Entertainment", & Prive HD
-
+http://58.27.219.166:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Entertainment", AXN
 http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Entertainment", Redbull TV
@@ -210,14 +210,14 @@ http://65.2.4.240/jioo.php?c=Ten2_HD&q=1200&e=junk.m3u8
 http://65.2.4.240/jioo.php?c=Ten3_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178Channel
+#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2 HD
+http://58.27.219.166:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
+http://58.27.219.166:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+http://58.27.219.166:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
+http://58.27.219.166:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
 
@@ -227,7 +227,7 @@ http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
 https://last.gcdn.co/IND388/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+http://58.27.219.166:8000/play/a06g/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax FHD (H265)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax HD (Backup)
@@ -245,7 +245,7 @@ http://65.2.4.240/jioo.php?c=Nick_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
-http://103.153.39.34:8000/play/a04l/index.m3u8
+http://58.27.219.166:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids
 https://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
 
