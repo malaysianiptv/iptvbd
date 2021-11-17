@@ -178,7 +178,7 @@ https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Entertainment", & Prive HD
 http://58.27.219.166:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Entertainment", AXN
-http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
+http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Entertainment", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Entertainment", Sony Pix HD
@@ -231,7 +231,7 @@ http://58.27.219.166:8000/play/a06g/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax FHD (H265)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax HD (Backup)
-http://210.210.155.35/session/2c8f6ae4-24de-11eb-bca2-b2008dc64d25/dr9445/h/h144/01.m3u8
+http://210.210.155.35:80/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="Kids", ANIPlus
 http://210.210.155.35/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Kids", Boomerang
