@@ -28,8 +28,31 @@ http://tv.alphamediazone.com:8089/thunderbd/67/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/68/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg" group-title="Hindi",Sony TV HD
 http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi Movies",Sony MAX HD
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi",Sony MAX HD
 http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
 #EXTINF:-1 Sony sab
 http://tv.alphamediazone.com:8089/thunderbd/36/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",ZEE TV HD
+http://tv.alphamediazone.com:8089/thunderbd/40/index.m3u8
+&tv
+http://tv.alphamediazone.com:8089/thunderbd/74/index.m3u8
+&pictures
+http://tv.alphamediazone.com:8089/thunderbd/100/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD
+http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD
+http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2
+http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3 HD
+http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN HD
+http://tv.alphamediazone.com:8089/thunderbd/23/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD
+http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+
+
+
 
