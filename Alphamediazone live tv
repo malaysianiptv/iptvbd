@@ -18,7 +18,7 @@ http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/44/index.m3u8
 #EXTINF:-1 MNX
 http://tv.alphamediazone.com:8089/thunderbd/39/index.m3u8
-#EXTINF:-1 ZEE CAFE HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
 http://tv.alphamediazone.com:8089/thunderbd/69/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi",Star Gold HD
 http://tv.alphamediazone.com:8089/thunderbd/75/index.m3u8
@@ -34,9 +34,9 @@ http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/36/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",ZEE TV HD
 http://tv.alphamediazone.com:8089/thunderbd/40/index.m3u8
-&tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
 http://tv.alphamediazone.com:8089/thunderbd/74/index.m3u8
-&pictures
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD
 http://tv.alphamediazone.com:8089/thunderbd/100/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD
 http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
