@@ -30,7 +30,7 @@ http://tv.alphamediazone.com:8089/thunderbd/68/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi",Sony MAX HD
 http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
-#EXTINF:-1 Sony sab
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi",Sony SAB
 http://tv.alphamediazone.com:8089/thunderbd/36/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",ZEE TV HD
 http://tv.alphamediazone.com:8089/thunderbd/40/index.m3u8
