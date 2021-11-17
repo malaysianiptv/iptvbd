@@ -12,3 +12,24 @@ http://tv.alphamediazone.com:8089/thunderbd/29/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Akash aath
 http://tv.alphamediazone.com:8089/thunderbd/32/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="English",Sony Pix HD
+http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://tv.alphamediazone.com:8089/thunderbd/44/index.m3u8
+#EXTINF:-1 MNX
+http://tv.alphamediazone.com:8089/thunderbd/39/index.m3u8
+#EXTINF:-1 ZEE CAFE HD
+http://tv.alphamediazone.com:8089/thunderbd/69/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi",Star Gold HD
+http://tv.alphamediazone.com:8089/thunderbd/75/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi",Star Plus HD
+http://tv.alphamediazone.com:8089/thunderbd/67/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi",Colors HD
+http://tv.alphamediazone.com:8089/thunderbd/68/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg" group-title="Hindi",Sony TV HD
+http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi Movies",Sony MAX HD
+http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
+#EXTINF:-1 Sony sab
+http://tv.alphamediazone.com:8089/thunderbd/36/index.m3u8
+
