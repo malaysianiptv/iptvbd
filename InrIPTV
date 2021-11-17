@@ -67,21 +67,21 @@ https://last.gcdn.co/IND433/tracks-v1a1/mono.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
-http://65.2.4.240/jioo.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/66/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeebangla
+http://tv.alphamediazone.com:8089/thunderbd/34/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla SD
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha SD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
-http://65.2.4.240/jioo.php?c=Sony_aath&q=800&e=junk.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/33/index.m3u8
 #EXTINF:-1 tvg-logo="http://sldhnecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bangla", Akash Aath
 http://65.2.4.240/jioo.php?c=Aakaash_bangla&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
