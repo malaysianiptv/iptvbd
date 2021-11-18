@@ -50,7 +50,7 @@ http://tv.alphamediazone.com:8089/thunderbd/23/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD
 http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
-
-
-
-
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD
+http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD
+http://tv.alphamediazone.com:8089/thunderbd/35/index.m3u8
