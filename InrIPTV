@@ -215,9 +215,9 @@ http://58.27.219.166:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
 http://58.27.219.166:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://58.27.219.166:8000/play/a04v/index.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://58.27.219.166:8000/play/a04w/index.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
 
