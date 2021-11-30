@@ -186,7 +186,7 @@ http://65.2.4.240/jioo.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="Entertainment", FX HD
 http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecafehd
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecafehd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Entertainment", HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMFEiH2SUl61zuJ9uhIWAZ6qhxTEWDXMR-v1_1zpnZHmv__CJGBDGQu0&s=10" group-title="Entertainment",Star World HD
