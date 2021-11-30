@@ -98,7 +98,7 @@ http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvpictureshd
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://58.27.219.166:8000/play/a0fz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
@@ -116,15 +116,15 @@ http://5giptv.me:8880/34516317/55678974/179148
 #EXTINF:-1 tvg-logo="http://snoidcdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Hindi", B4U Movies
 http://65.2.4.240/jioo.php?c=B4U_Movies&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeaction
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeclassic
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeclassic
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvhd_0
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvhd_0
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Infotainment", Animal Planet HD
@@ -176,7 +176,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="News", DW
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Entertainment", & Prive HD
-http://58.27.219.166:8000/play/a054/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-privéhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Entertainment", AXN
 http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Entertainment", Redbull TV
@@ -252,11 +252,11 @@ https://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://snoidcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music", 9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-131
 #EXTINF:-1 tvg-logo="http://sldhnecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9X Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-133
 #EXTINF:-1 tvg-logo="http://sldhnecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music", Zing
-http://65.2.4.240/jioo.php?c=Zing&q=1200&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zing
 #EXTINF:-1 tvg-logo="http://sldhnecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music", B4U Music
 http://65.2.4.240/jioo.php?c=B4U_Music&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
