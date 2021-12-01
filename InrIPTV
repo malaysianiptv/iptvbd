@@ -136,7 +136,7 @@ http://210.210.155.35/session/2c8f6ae4-24de-11eb-bca2-b2008dc64d25/dr9445/h/h144
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Infotainment", Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Infotainment", Sony BBC Earth HD
-http://65.2.4.240/jioo.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
+http://103.157.210.165:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Infotainment", Discovery Science
 http://65.2.4.240/jioo.php?c=Discovery_Science&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Infotainment", Discovery Turbo
@@ -213,21 +213,21 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
-http://58.27.219.166:8000/play/a05n/index.m3u8
+http://103.157.210.165:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
+http://103.157.210.165:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+http://103.157.210.165:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network
-http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
+http://103.157.210.165:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
 https://last.gcdn.co/IND388/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
-http://58.27.219.166:8000/play/a06g/index.m3u8
+http://103.157.210.165:8000/play/a00r/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax FHD (H265)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax HD (Backup)
@@ -237,17 +237,17 @@ http://210.210.155.35/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Kids", Boomerang
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden
-http://103.153.39.34:8000/play/a04p/index.m3u8
+http://103.157.210.165:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
-http://65.2.4.240/jioo.php?c=Pogo_Hindi&q=600&e=junk.m3u8
+http://103.157.210.165:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick
-http://212.76.29.26:80/btv/SWM/Nikelodeon/Nikelodeon.m3u8
+http://103.157.210.165:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
-http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
+http://103.157.210.165:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
-http://58.27.219.166:8000/play/a06f/index.m3u8
+http://103.157.210.165:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids
-https://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
+http://103.157.210.165:8000/play/a00y/index.m3u8
 
 
 
