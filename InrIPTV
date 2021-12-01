@@ -44,7 +44,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
 http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
-http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
+http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla", Asian TV 
 http://tv.alphamediazone.com:8089/thunderbd/62/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/McQwv50.png" group-title="Bangla", SATV
