@@ -207,6 +207,8 @@ http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
 #http://195.201.82.32:5001/play/a006
 http://183.178.58.115:8017/0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
+http://203.154.243.89:11205/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Entertainment", HBO
 http://183.178.58.115:8032/0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMFEiH2SUl61zuJ9uhIWAZ6qhxTEWDXMR-v1_1zpnZHmv__CJGBDGQu0&s=10" group-title="Entertainment",Star World HD
