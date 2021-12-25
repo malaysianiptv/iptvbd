@@ -80,12 +80,13 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/14
+#http://195.201.82.32:5001/play/a00z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha SD
 http://208.86.19.21:80/908.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/226
+http://195.201.82.32:5001/play/a00v
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
-http://208.86.19.21/716.stream/index.m3u8
+http://195.201.82.32:5001/play/a00w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="http://sldhnecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bangla", Akash Aath
@@ -136,6 +137,8 @@ http://183.178.58.115:8015/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Infotainment", Animal Planet HD
 http://103.131.212.138:8000/play/a009/index.m3u8
+#http://195.201.82.32:5001/play/a00a
+#http://195.201.82.32:5001/play/a00g
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax FHD (H265)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax HD (Backup)
@@ -143,22 +146,26 @@ http://210.210.155.35/session/2c8f6ae4-24de-11eb-bca2-b2008dc64d25/dr9445/h/h144
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Infotainment", Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Infotainment", Sony BBC Earth HD
-http://103.131.212.138:8000/play/a016/index.m3u8
+http://195.201.82.32:5001/play/a02w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Infotainment", Discovery Science
 http://103.131.212.138:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Infotainment", Discovery Turbo
 http://103.131.212.138:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment", History Channel
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/3
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/3
+http://195.201.82.32:5001/play/a032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment", National Geographic HD
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/12
+http://195.201.82.32:5001/play/a00x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Infotainment", National Geographic Wild
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/18
+#http://195.201.82.32:5001/play/a00f
 http://103.161.2.142/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Infotainment", Discovery HD
-http://103.131.212.138:8000/play/a004/index.m3u8
+http://195.201.82.32:5001/play/a02k
+#http://195.201.82.32:5001/play/a00i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Infotainment", TLC HD
 #http://103.131.212.138:8000/play/a00s/index.m3u8
+#http://195.201.82.32:5001/play/a00h
 http://103.161.2.142/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Infotainment", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -186,7 +193,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="News", DW
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Entertainment", & Prive HD
-http://103.131.212.138:8000/play/a01e/index.m3u8
+http://195.201.82.32:5001/play/a00j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Entertainment", AXN
 #http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 http://103.161.2.142/hls/axn.m3u8
@@ -198,13 +205,14 @@ http://103.161.2.142/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="Entertainment", FX HD
 http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
+#http://195.201.82.32:5001/play/a006
 http://183.178.58.115:8017/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Entertainment", HBO
 http://183.178.58.115:8032/0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMFEiH2SUl61zuJ9uhIWAZ6qhxTEWDXMR-v1_1zpnZHmv__CJGBDGQu0&s=10" group-title="Entertainment",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="Entertainment", Star Movies HD
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/30
+#http://195.201.82.32:5001/play/a003
 http://103.161.2.142/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="Entertainment", Discovery ID
 http://103.131.212.138:8000/play/a02o/index.m3u8
@@ -220,11 +228,11 @@ http://208.86.19.21:80/726.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
 http://208.86.19.21:80/712.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
-http://103.159.4.38:5868/SPORTS-9/tracks-v1a1/mono.m3u8
+http://195.201.82.32:5001/play/a038
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://183.178.58.115:8019/0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2 HD
-http://183.178.58.115:8018/0.m3u8
+http://195.201.82.32:5001/play/a024
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
 http://208.86.19.21:80/732.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
