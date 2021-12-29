@@ -224,7 +224,7 @@ http://103.131.212.138:8000/play/a02o/index.m3u8
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://208.86.19.21:80/740.stream/index.m3u8
+http://183.178.58.115:8022/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
 http://208.86.19.21:80/726.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
