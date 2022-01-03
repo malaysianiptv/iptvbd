@@ -108,24 +108,25 @@ http://103.161.2.142/hls/zee-bangla-cinema.m3u8
 http://103.161.2.142/hls/travelxp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://103.161.2.142/hls/sonyen.m3u8
-#http://183.178.58.115:8014/0.m3u8
+#http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-http://103.161.2.142/hls/colore-tv-hd.m3u8
-#http://183.178.58.115:8010/0.m3u8
+#http://103.161.2.142/hls/colore-tv-hd.m3u8
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://103.161.2.142/hls/starplus.m3u8
 #http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 http://103.161.2.142/hls/zeetv.m3u8
 #http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD
-http://183.178.58.115:8030/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures
+http://208.86.19.21:80/705.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/308
+http://208.86.19.21:80/735.stream/index.m3u8
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/308
 #http://103.161.2.142/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://103.161.2.142/hls/sonymax.m3u8
-#http://183.178.58.115:8027/0.m3u8
+#http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi",Sony SAB HD
 http://208.86.19.21:80/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",Sony Max 2 HD
@@ -169,8 +170,9 @@ http://103.131.212.138:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Infotainment", Discovery Turbo
 http://103.131.212.138:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment", History Channel
+https://durbinlive.com:443/live/jio?c=History_18_Hindi&q=auto&e=IshanJiotv.m3u8
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/3
-http://195.201.82.32:5001/play/a032
+#http://195.201.82.32:5001/play/a032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment", National Geographic HD
 http://103.161.2.142/hls/ngohd.m3u8
 #http://195.201.82.32:5001/play/a00x
