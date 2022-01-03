@@ -86,6 +86,7 @@ http://14.199.164.20:4001/play/a0j5/index.m3u8
 http://103.161.2.142/hls/zeebanglahd.m3u8
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/14
 #http://195.201.82.32:5001/play/a00z
+#http://103.159.4.38:5868/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha SD
 http://208.86.19.21:80/908.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
