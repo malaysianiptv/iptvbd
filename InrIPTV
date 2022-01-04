@@ -131,7 +131,8 @@ http://103.161.2.142/hls/sonymax.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi",Sony SAB HD
 http://208.86.19.21:80/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",Sony Max 2 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_MAX2&q=600&e=junk.m3u8
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2
 http://103.161.2.142/hls/stargold2hd.m3u8
 #http://208.86.19.21:80/709.stream/index.m3u8
@@ -220,6 +221,7 @@ http://103.161.2.142/hls/axn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Entertainment", Redbull TV
 http://103.159.4.38:5868/SPORTS-15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Entertainment", Sony Pix HD
+#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
 #http://103.131.212.138:8000/play/a017/index.m3u8
 http://103.161.2.142/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="Entertainment", FX HD
