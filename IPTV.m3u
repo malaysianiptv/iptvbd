@@ -82,12 +82,12 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Bengali_
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
-http://208.86.19.21/906.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
+http://str24.l9574.com/906.stream/index.m3u8
 #https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla&q=800&e=junk.m3u8
 #http://195.201.82.32:5001/play/a00z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha SD
-http://208.86.19.21:80/908.stream/index.m3u8
+http://str24.l9574.com/908.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
 #http://103.81.104.118/hls/starjalsha.m3u8
 http://195.201.82.32:5001/play/a00v
