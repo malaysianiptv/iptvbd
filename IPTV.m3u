@@ -77,8 +77,9 @@ http://103.161.2.142/hls/nagoriktv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Bangla", CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla
+http://str24.l9574.com/904.stream/index.m3u8
+#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
