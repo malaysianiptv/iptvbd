@@ -131,13 +131,12 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi",Sony SAB HD
 http://208.86.19.21:80/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",Sony Max 2 HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_MAX2&q=600&e=junk.m3u8
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2
-#http://103.81.104.118/hls/stargold2hd.m3u8
-http://208.86.19.21:80/709.stream/index.m3u8
+http://103.153.39.36:8000/play/a01q
+#http://208.86.19.21:80/709.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
-#http://103.81.104.118/hls/stargold.m3u8
+http://103.153.39.36:8000/play/a012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 #http://103.81.104.118/hls/utvaction.m3u8
 http://103.131.212.138:8000/play/a00k/index.m3u8
@@ -150,7 +149,7 @@ http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat HD
-
+http://103.153.39.36:8000/play/a010
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_TV_HD&q=1200&e=junk.m3u8
 
@@ -163,30 +162,22 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Animal_Planet_H
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Infotainment", Sony BBC Earth HD
 #http://103.81.104.118/hls/bbcearth.m3u8
-#http://195.201.82.32:5001/play/a02w
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Infotainment", Discovery Science
-http://103.131.212.138:8000/play/a007/index.m3u8
+http://103.153.39.36:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Infotainment", Discovery Turbo
-http://103.131.212.138:8000/play/a008/index.m3u8
+http://103.153.39.36:8000/play/a01l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment", History Channel
 https://durbinlive.com:443/live/jio?c=History_18_Hindi&q=auto&e=IshanJiotv.m3u8
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/3
-#http://195.201.82.32:5001/play/a032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment", National Geographic HD
 #http://103.81.104.118/hls/ngohd.m3u8
-http://195.201.82.32:5001/play/a00x
+http://103.153.39.36:8000/play/a00x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Infotainment", National Geographic Wild
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/18
-http://195.201.82.32:5001/play/a00f
+http://103.153.39.36:8000/play/a00i
 #http://103.81.104.118/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Infotainment", Discovery HD
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_HD_World&q=800&e=junk.m3u8
-#http://195.201.82.32:5001/play/a02k
-#http://195.201.82.32:5001/play/a00i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Infotainment", TLC HD
-#http://103.131.212.138:8000/play/a00s/index.m3u8
-#http://195.201.82.32:5001/play/a00h
 #http://103.81.104.118/hls/tlc.m3u8
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=TLC_English&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Infotainment", Love Nature
@@ -214,7 +205,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="News", DW
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Entertainment", & Prive HD
-http://195.201.82.32:5001/play/a00j
+http://103.153.39.36:8000/play/a01d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Entertainment", AXN
 http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #http://103.161.2.142/hls/axn.m3u8
@@ -222,16 +213,15 @@ http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 http://103.159.4.38:5868/SPORTS-15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Entertainment", Sony Pix HD
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
-#http://103.131.212.138:8000/play/a017/index.m3u8
 #http://103.81.104.118/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Entertainment", MN+ HD
-http://103.81.104.118/hls/mn+.m3u8
+http://103.153.39.36:8000/play/a00u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Entertainment", Movies now HD
-http://103.81.104.118/hls/movies-now.m3u8
+http://103.153.39.36:8000/play/a01i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Entertainment", MNX HD
-http://103.81.104.118/hls/mnx-hd.m3u8
+http://103.153.39.36:8000/play/a01h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
-http://195.201.82.32:5001/play/a006
+http://103.153.39.36:8000/play/a00t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
 http://203.154.243.89:11205/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Entertainment", HBO
@@ -240,10 +230,9 @@ http://183.178.58.115:8032/0.m3u8
 #http://103.81.104.118/hls/star-worldhd.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="Entertainment", Star Movies HD
-http://195.201.82.32:5001/play/a003
-#http://103.81.104.118/hls/starmovies.m3u8
+http://103.153.39.36:8000/play/a00w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="Entertainment", Discovery ID
-http://103.131.212.138:8000/play/a02o/index.m3u8
+http://103.153.39.36:8000/play/a00j
 
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
@@ -260,15 +249,15 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten3_HD&q=1200&
 #EXTINF:-1 group-title="Sports",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",Ten 4 HD
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten_4_HD_Tamil&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-
+http://103.153.39.36:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2 HD
-http://195.201.82.32:5001/play/a024
+http://103.153.39.36:8000/play/a00d
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
-http://208.86.19.21:80/732.stream/index.m3u8
+http://103.153.39.36:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-
+http://103.153.39.36:8000/play/a018
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-
+http://103.153.39.36:8000/play/a019
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
