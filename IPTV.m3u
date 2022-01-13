@@ -156,14 +156,16 @@ https://durbinlive.com:443/live/jio?c=Discovery_HD_World&q=auto&e=IshanJiotv.m3u
 https://durbinlive.com:443/live/jio?c=TLC_HD_World&q=auto&e=IshanJiotv.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Infotainment", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/e3b5bdbc-a437-41f1-81f0-67c9257622fc.jpg" group-title="Infotainment", CGTN
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/e3b5bdbc-a437-41f1-81f0-67c9257622fc.jpg" group-title="Infotainment", CGTN Doccumentery
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE07vClDIRtuOnRcMh72JSKckpnhS0eyTa1Q&usqp=CAU" group-title="News",Fox Sports News HD 
 http://103.159.4.38:5868/SPORTS-13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg" group-title="News", CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/800px-BBC_News_2019.svg.png" group-title="News", BBC World News
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=BBC_World_News&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/e3b5bdbc-a437-41f1-81f0-67c9257622fc.jpg" group-title="News", CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg" group-title="News", ZEE News India
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NE724R2.png" group-title="News", Zee 24 Ghanta
