@@ -216,10 +216,9 @@ http://103.153.39.36:8000/play/a00j
 
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
-http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-
+http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
+https://durbinlive.com:443/live/jio?c=Six_HD&q=auto&e=FcnbdIptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
 https://cdn.durbinlive.com/726.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
@@ -243,7 +242,7 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network
 http://103.153.39.36:8000/play/a01w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
-
+https://durbinlive.com/live/jio/?c=Sony_Yay_Hindi
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
 http://103.153.39.36:8000/play/a01y
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax HD (Backup)
