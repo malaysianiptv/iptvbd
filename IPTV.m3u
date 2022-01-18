@@ -204,7 +204,8 @@ http://103.153.39.36:8000/play/a01h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeecafehd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
-http://203.154.243.89:11205/
+http://170.83.242.153:8000/play/a00q
+#http://203.154.243.89:11205/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Entertainment", HBO
 http://190.171.101.36/HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMFEiH2SUl61zuJ9uhIWAZ6qhxTEWDXMR-v1_1zpnZHmv__CJGBDGQu0&s=10" group-title="Entertainment",Star World HD
