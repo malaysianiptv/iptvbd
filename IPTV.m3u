@@ -145,11 +145,9 @@ http://103.161.2.142/hls/zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Infotainment", Animal Planet
 http://103.161.2.142/hls/animalplanent.m3u8
-#http://asdd.cc:7444/live/1/1/2078.m3u8
 #http://180.178.130.180:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Infotainment", Nasa TV
-http://asdd.cc:7444/live/1/1/1998.m3u8
-#https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Infotainment", Sony BBC Earth HD
 http://103.161.2.142/hls/bbcearth.m3u8
 #http://180.178.130.180:8000/play/a040/index.m3u8
@@ -165,13 +163,11 @@ http://103.161.2.142/hls/ngohd.m3u8
 http://103.161.2.142/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Infotainment", Discovery HD
 http://103.161.2.142/hls/discovery.m3u8
-#http://asdd.cc:7444/live/1/1/2079.m3u8
 #http://180.178.130.180:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Infotainment", TLC HD
 http://103.161.2.142/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Infotainment", Love Nature
-http://asdd.cc:7444/live/1/1/1996.m3u8
-#https://bamus-eng-roku.amagi.tv/playlist.m3u8
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/e3b5bdbc-a437-41f1-81f0-67c9257622fc.jpg" group-title="Infotainment", CGTN Doccumentery
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE07vClDIRtuOnRcMh72JSKckpnhS0eyTa1Q&usqp=CAU" group-title="News",Fox Sports News HD 
