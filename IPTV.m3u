@@ -118,9 +118,9 @@ http://103.161.2.142/hls/colorscineplex.m3u8
 http://103.161.2.142/hls/sony-maxhd.m3u8
 #http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi",Sony SAB HD
-
+http://103.153.39.36:8000/play/a01v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",Sony Max 2
-
+http://103.153.39.36:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2
 http://103.161.2.142/hls/stargold2hd.m3u8
 #http://180.178.130.180:8000/play/a045/index.m3u8
@@ -129,8 +129,6 @@ http://103.161.2.142/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 http://103.161.2.142/hls/utvaction.m3u8
 #http://180.178.130.180:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="http://snoidcdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Hindi", B4U Movies
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
@@ -139,9 +137,9 @@ http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 http://103.161.2.142/hls/zeecinemahd.m3u8
 #http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat HD
-
+http://103.153.39.36:8000/play/a010
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
-
+http://103.153.39.36:8000/play/a01u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Infotainment", Animal Planet
 http://103.161.2.142/hls/animalplanent.m3u8
@@ -156,7 +154,7 @@ http://103.153.39.36:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Infotainment", Discovery Turbo
 http://103.153.39.36:8000/play/a01l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment", History Channel
-http://180.178.130.180:8000/play/a03y/index.m3u8
+http://103.153.39.36:8000/play/a013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment", National Geographic HD
 http://103.161.2.142/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Infotainment", National Geographic Wild
@@ -195,14 +193,13 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="News", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Entertainment", & Prive HD
-http://180.178.130.180:8000/play/a048/index.m3u8
+http://103.153.39.36:8000/play/a01d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Entertainment", AXN
 http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Entertainment", Redbull TV
 http://asdd.cc:7444/live/1/1/2012.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Entertainment", Sony Pix HD
 http://103.161.2.142/hls/sonypixhd.m3u8
-#http://asdd.cc:7444/live/1/1/2048.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Entertainment", MN+ HD
 http://103.161.2.142/hls/mn+.m3u8
 #http://180.178.130.180:8000/play/a04b/index.m3u8
@@ -213,7 +210,7 @@ http://103.161.2.142/hls/movies-now.m3u8
 http://103.161.2.142/hls/mnx-hd.m3u8
 #http://180.178.130.180:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
-http://180.178.130.180:8000/play/a04a/index.m3u8
+http://103.153.39.36:8000/play/a00t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
 http://170.83.242.153:8000/play/a00q
 #http://203.154.243.89:11205/
