@@ -73,8 +73,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Bangla", CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
-#http://103.161.2.142/hls/colorsbangla.m3u8
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
+http://103.161.2.142/hls/colorsbangla.m3u8
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
@@ -88,68 +88,74 @@ http://103.161.2.142/hls/jalshamovies.m3u8
 #http://103.161.2.142/hls/Sony_Aath.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="http://sldhnecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bangla", Akash Aath
-
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Aakaash_bangla&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
-http://103.161.2.142/hls/zee-bangla-cinema.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla_Cinema&q=800&e=junk.m3u8
+#http://103.161.2.142/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
-http://103.161.2.142/hls/sunbangla.m3u8
+
+#http://103.161.2.142/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Entertainment", Travel XP
-http://103.161.2.142/hls/travelxp.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
+#http://103.161.2.142/hls/travelxp.m3u8
 #https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://103.161.2.142/hls/sonyen.m3u8
-#http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#http://103.161.2.142/hls/sonyen.m3u8
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-http://103.161.2.142/hls/colore-tv-hd.m3u8
-#http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#http://103.161.2.142/hls/colore-tv-hd.m3u8
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
-http://103.161.2.142/hls/starplus.m3u8
-#http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#http://103.161.2.142/hls/starplus.m3u8
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
-http://103.161.2.142/hls/zeetv.m3u8
-#http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#http://103.161.2.142/hls/zeetv.m3u8
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures
-http://103.161.2.142/hls/andpictures.m3u8
-#http://180.178.130.180:8000/play/a042/index.m3u8
+#http://103.161.2.142/hls/andpictures.m3u8
+http://180.178.130.180:8000/play/a042/index.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
-http://103.161.2.142/hls/colorscineplex.m3u8
-#http://180.178.130.180:8000/play/a05j/index.m3u8
+#http://103.161.2.142/hls/colorscineplex.m3u8
+http://180.178.130.180:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://103.161.2.142/hls/sony-maxhd.m3u8
-#http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#http://103.161.2.142/hls/sony-maxhd.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi",Sony SAB HD
 http://103.153.39.36:8000/play/a01v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",Sony Max 2
 http://103.153.39.36:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2
-http://103.161.2.142/hls/stargold2hd.m3u8
-#http://180.178.130.180:8000/play/a045/index.m3u8
+#http://103.161.2.142/hls/stargold2hd.m3u8
+http://180.178.130.180:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold
-http://103.161.2.142/hls/stargold.m3u8
+
+#http://103.161.2.142/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
-http://103.161.2.142/hls/utvaction.m3u8
-#http://180.178.130.180:8000/play/a04l/index.m3u8
+#http://103.161.2.142/hls/utvaction.m3u8
+http://180.178.130.180:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://103.161.2.142/hls/zeecinemahd.m3u8
-#http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+#http://103.161.2.142/hls/zeecinemahd.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat HD
 http://103.153.39.36:8000/play/a010
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
 http://103.153.39.36:8000/play/a01u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Infotainment", Animal Planet
-http://103.161.2.142/hls/animalplanent.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+#http://103.161.2.142/hls/animalplanent.m3u8
 #http://180.178.130.180:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Infotainment", Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Infotainment", Sony BBC Earth HD
-http://103.161.2.142/hls/bbcearth.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+#http://103.161.2.142/hls/bbcearth.m3u8
 #http://180.178.130.180:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Infotainment", Discovery Science
 http://103.153.39.36:8000/play/a01k
@@ -162,10 +168,12 @@ http://103.161.2.142/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Infotainment", National Geographic Wild
 http://103.161.2.142/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Infotainment", Discovery HD
-http://103.161.2.142/hls/discovery.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_HD_World&q=800&e=junk.m3u8
+#http://103.161.2.142/hls/discovery.m3u8
 #http://180.178.130.180:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Infotainment", TLC HD
-http://103.161.2.142/hls/tlc.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=TLC_HD_World&q=800&e=junk.m3u8
+#http://103.161.2.142/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Infotainment", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/e3b5bdbc-a437-41f1-81f0-67c9257622fc.jpg" group-title="Infotainment", CGTN Doccumentery
@@ -201,16 +209,17 @@ http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Entertainment", Redbull TV
 http://asdd.cc:7444/live/1/1/2012.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Entertainment", Sony Pix HD
-http://103.161.2.142/hls/sonypixhd.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+#http://103.161.2.142/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Entertainment", MN+ HD
-http://103.161.2.142/hls/mn+.m3u8
-#http://180.178.130.180:8000/play/a04b/index.m3u8
+#http://103.161.2.142/hls/mn+.m3u8
+http://180.178.130.180:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Entertainment", Movies now HD
-http://103.161.2.142/hls/movies-now.m3u8
-#http://180.178.130.180:8000/play/a05f/index.m3u8
+#http://103.161.2.142/hls/movies-now.m3u8
+http://180.178.130.180:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Entertainment", MNX HD
-http://103.161.2.142/hls/mnx-hd.m3u8
-#http://180.178.130.180:8000/play/a05e/index.m3u8
+#http://103.161.2.142/hls/mnx-hd.m3u8
+http://180.178.130.180:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
 http://103.153.39.36:8000/play/a00t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
@@ -219,11 +228,11 @@ http://170.83.242.153:8000/play/a00q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Entertainment", HBO
 http://190.171.101.36/HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMFEiH2SUl61zuJ9uhIWAZ6qhxTEWDXMR-v1_1zpnZHmv__CJGBDGQu0&s=10" group-title="Entertainment",Star World HD
-http://103.161.2.142/hls/star-worldhd.m3u8
+#http://103.161.2.142/hls/star-worldhd.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="Entertainment", Star Movies HD
-http://103.161.2.142/hls/starmovies.m3u8
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://103.161.2.142/hls/starmovies.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="Entertainment", Discovery ID
 http://103.153.39.36:8000/play/a00j
 
@@ -231,30 +240,38 @@ http://103.153.39.36:8000/play/a00j
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
 http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://103.161.2.142/hls/sonysix.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Six_HD&q=1200&e=junk.m3u8
+#http://103.161.2.142/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://103.161.2.142/hls/sonyten1.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten_HD&q=1200&e=junk.m3u8
+#http://103.161.2.142/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
-http://103.161.2.142/hls/sonyten2.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten2_HD&q=1200&e=junk.m3u8
+#http://103.161.2.142/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
-http://103.161.2.142/hls/sonyten3.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten3_HD&q=1200&e=junk.m3u8
+#http://103.161.2.142/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://103.161.2.142/hls/stersports1hd.m3u8
+
+#http://103.161.2.142/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2 HD
-http://103.161.2.142/hls/starsports2.m3u8
+
+#http://103.161.2.142/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
 http://180.178.130.180:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://103.161.2.142/hls/Star_Sport_Select1HD.m3u8
+
+#http://103.161.2.142/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://103.161.2.142/hls/select2.m3u8
+
+#http://103.161.2.142/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network
-http://103.161.2.142/hls/cn.m3u8
-#http://103.153.39.36:8000/play/a01w
+#http://103.161.2.142/hls/cn.m3u8
+http://103.153.39.36:8000/play/a01w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
@@ -268,14 +285,15 @@ http://103.153.39.36:8000/play/a021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
 http://103.153.39.36:8000/play/a022
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick
-http://103.161.2.142/hls/nick.m3u8
-#http://103.153.39.36:8000/play/a01z
+#http://103.161.2.142/hls/nick.m3u8
+http://103.153.39.36:8000/play/a01z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
 http://103.153.39.36:8000/play/a023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv
 http://103.153.39.36:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids
-http://103.161.2.142/hls/dis-kid.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
+#http://103.161.2.142/hls/dis-kid.m3u8
 
 
 
