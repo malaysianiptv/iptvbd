@@ -78,6 +78,7 @@ http://103.161.2.142/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
+#https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/zeebangla.m3u8
 #http://103.161.2.142/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
@@ -224,7 +225,7 @@ http://180.178.130.180:8000/play/a05f/index.m3u8
 #http://103.161.2.142/hls/mnx-hd.m3u8
 http://180.178.130.180:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
-https://nayeem-parvez.gq/zee5.php?c=zeecafehd
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/zeecafehd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
 http://170.83.242.153:8000/play/a00q
 #http://203.154.243.89:11205/
