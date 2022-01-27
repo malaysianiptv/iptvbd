@@ -162,7 +162,7 @@ http://103.153.39.36:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Infotainment", Discovery Turbo
 http://103.153.39.36:8000/play/a01l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment", History Channel
-http://103.153.39.36:8000/play/a013
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_18_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment", National Geographic HD
 http://103.161.2.142/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Infotainment", National Geographic Wild
