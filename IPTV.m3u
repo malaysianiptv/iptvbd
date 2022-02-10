@@ -73,19 +73,19 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Bangla", CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
-#http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2071.m3u8
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
+http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2071.m3u8
+#http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
 #http://103.161.2.142/hls/colorsbangla.m3u8
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
-#http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2070.m3u8
+http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2070.m3u8
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
+#http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
 #https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/zeebangla.m3u8
 #http://103.161.2.142/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-#http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2055.m3u8
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
+http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2055.m3u8
+#http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
 #http://103.161.2.142/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2075.m3u8
@@ -300,8 +300,7 @@ http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2068.m3u8
 #http://103.161.2.142/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
 #http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2069.m3u8
-#http://103.153.39.36:8000/play/a019
-http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+http://103.153.39.36:8000/play/a019
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
