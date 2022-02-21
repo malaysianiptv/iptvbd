@@ -122,7 +122,7 @@ http://103.153.39.36:8000/play/a01s
 http://103.166.253.222/hls/stargold2hd.m3u8
 #http://180.178.130.180:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://103.166.253.222/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 #http://180.178.130.180:8000/play/a04l/index.m3u8
@@ -131,7 +131,8 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+http://103.166.253.222/hls/zeecinemahd.m3u8
+#http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat HD
 http://103.153.39.36:8000/play/a010
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
@@ -214,7 +215,7 @@ http://103.153.39.36:8000/play/a00j
 
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
-
+http://103.166.253.222/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://103.166.253.222/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
