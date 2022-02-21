@@ -267,50 +267,35 @@ http://103.153.39.36:8000/play/a00j
 
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2053.m3u8
-#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Six_HD&q=1200&e=junk.m3u8
-#http://103.161.2.142/hls/sonysix.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2052.m3u8
-#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten_HD&q=1200&e=junk.m3u8
-#http://103.161.2.142/hls/sonyten1.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2059.m3u8
+
 #https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten2_HD&q=1200&e=junk.m3u8
-#http://103.161.2.142/hls/sonyten2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2060.m3u8
-#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Ten3_HD&q=1200&e=junk.m3u8
-#http://103.161.2.142/hls/sonyten3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2064.m3u8
-#http://103.153.39.36:8000/play/a00c
-#http://103.161.2.142/hls/stersports1hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2 HD
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2066.m3u8
-#http://103.153.39.36:8000/play/a00d
-#http://103.161.2.142/hls/starsports2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
-http://103.153.39.36:8000/play/a00l
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2068.m3u8
-#http://103.153.39.36:8000/play/a018
-#http://103.161.2.142/hls/Star_Sport_Select1HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-#http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2069.m3u8
-http://103.153.39.36:8000/play/a019
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2004.m3u8
-#http://103.161.2.142/hls/cn.m3u8
-#http://103.153.39.36:8000/play/a01w
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2189.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
 http://103.153.39.36:8000/play/a01y
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax HD (Backup)
@@ -320,19 +305,15 @@ http://210.210.155.35/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden
 http://103.153.39.36:8000/play/a021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2180.m3u8
-#http://103.153.39.36:8000/play/a022
+http://103.153.39.36:8000/play/a022
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2179.m3u8
-#http://103.161.2.142/hls/nick.m3u8
-#http://103.153.39.36:8000/play/a01z
+http://103.153.39.36:8000/play/a01z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
 http://103.153.39.36:8000/play/a023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv
 http://103.153.39.36:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids
-http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2178.m3u8
-#http://103.161.2.142/hls/dis-kid.m3u8
+http://103.161.2.142/hls/dis-kid.m3u8
 
 
 
