@@ -200,7 +200,7 @@ http://103.166.253.222/hls/movies-now.m3u8
 http://103.166.253.222/hls/mnx-hd.m3u8
 #http://180.178.130.180:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
-
+http://103.153.39.36:8000/play/a00t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Entertainment", HBO
 http://190.171.101.36/HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMFEiH2SUl61zuJ9uhIWAZ6qhxTEWDXMR-v1_1zpnZHmv__CJGBDGQu0&s=10" group-title="Entertainment",Star World HD
@@ -264,23 +264,21 @@ http://103.166.253.222/hls/dis-kid.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://snoidcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music", 9XM
-#http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_und=208000-video=877600.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="http://sldhnecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9X Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_480p/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://sldhnecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music", Zing
-
 #EXTINF:-1 tvg-logo="http://sldhnecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music", B4U Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/up2mMgD.png" group-title="Music", MTV BIGGEST POP HD
-
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-logo="http://sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qsh4GFZflFJBVcJd_2zsIWQpvgc7lm_2qA&usqp=CAU" group-title="Music",Music India
-
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
