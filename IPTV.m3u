@@ -148,6 +148,10 @@ http://103.55.144.46/hls/stargold2hd.m3u8
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #http://103.170.140.8/hls/stargold.m3u8
 #http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",Star Gold Select HD
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Hindi", MTV HD
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 http://103.55.144.46/hls/utvaction.m3u8
 #http://103.170.140.8/hls/utvaction.m3u8
@@ -229,6 +233,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Entertainment", Sony Pix HD
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #http://103.170.140.8/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png"  group-title="English Movies", Lotus Macau
+http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Entertainment", MN+ HD
 http://103.55.144.46/hls/mn+.m3u8
 #http://103.161.2.142/hls/mn+.m3u8
