@@ -76,7 +76,8 @@ http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 http://103.55.144.46/hls/colorsbangla.m3u8
 #http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
-http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+http://103.55.144.46/hls/zeebanglahd.m3u8
+#http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #http://td.chowdhury-shaheb.com/live/zeebangla/playlist.m3u8
 #http://103.170.140.8/hls/zeebanglahd.m3u8
 #http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
@@ -95,7 +96,8 @@ http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo="http://sldhnecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bangla", Akash Aath
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+#http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #http://103.170.140.8/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
 http://103.55.144.46/hls/sunbangla.m3u8
@@ -145,7 +147,8 @@ http://103.55.144.46/hls/stargold2hd.m3u8
 #http://103.170.140.8/hls/stargold2hd.m3u8
 #http://180.178.130.180:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
-http://tv2.ebox.live:8080/live/star-gold.m3u8
+http://103.55.144.46/hls/stargold.m3u8
+#http://tv2.ebox.live:8080/live/star-gold.m3u8
 #http://103.170.140.8/hls/stargold.m3u8
 #http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",Star Gold Select HD
@@ -156,10 +159,6 @@ http://tv2.ebox.live:8080/live/starsports-3.m3u8
 http://103.55.144.46/hls/utvaction.m3u8
 #http://103.170.140.8/hls/utvaction.m3u8
 #http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
-http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://103.55.144.46/hls/zeecinemahd.m3u8
 #http://103.170.140.8/hls/zeecinemahd.m3u8
@@ -231,7 +230,8 @@ http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Entertainment", Redbull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Entertainment", Sony Pix HD
-http://tv2.ebox.live:8080/live/sony-pix.m3u8
+http://103.55.144.46/hls/sonypixhd.m3u8
+#http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #http://103.170.140.8/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png"  group-title="English Movies", Lotus Macau
 http://tv2.ebox.live:8080/live/hbo.m3u8
