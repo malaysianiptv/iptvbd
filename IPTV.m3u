@@ -93,8 +93,6 @@ http://103.112.55.107:9090/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
 http://103.112.55.107:9090/play/a00q/index.m3u8
 #http://103.55.144.46/hls/Sony_Aath.m3u8
-#http://td.chowdhury-shaheb.com/live/nb-sonyaath/playlist.m3u8
-#http://103.170.140.8/hls/Sony_Aath.m3u8
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="http://sldhnecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bangla", Akash Aath
 
@@ -143,8 +141,7 @@ http://tv2.ebox.live:8080/live/sony-sab.m3u8
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #http://103.153.39.36:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2
-
-#http://103.55.144.46/hls/stargold2hd.m3u8
+http://103.55.144.46/hls/stargold2hd.m3u8
 #http://180.178.130.180:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://tv2.ebox.live:8080/live/star-gold.m3u8
@@ -164,23 +161,21 @@ http://tv2.ebox.live:8080/live/zee-cinema.m3u8p
 #http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat HD
-http://103.153.39.36:8000/play/a010
+http://182.50.65.213:8888/udp/239.239.0.7:3001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
-http://103.153.39.36:8000/play/a01u
+http://182.50.65.213:8888/udp/239.239.0.10:3001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Infotainment", Animal Planet HD
 http://103.55.144.46/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Infotainment", Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Infotainment", Sony BBC Earth HD
 http://103.55.144.46/hls/bbcearth.m3u8
-#http://103.170.140.8/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Infotainment", Discovery Science
 http://103.55.144.46/hls/dis-science.m3u8
-http://103.170.140.8/hls/dis-science.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Infotainment", Discovery Turbo
 http://103.153.39.36:8000/play/a01l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment", History Channel
-http://103.153.39.36:8000/play/a013
+#http://103.153.39.36:8000/play/a013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment", National Geographic HD
 http://103.112.55.107:9090/play/a01d/index.m3u8
 #http://103.55.144.46/hls/ngohd.m3u8
@@ -293,7 +288,6 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network
 http://103.55.144.46/hls/cn.m3u8
-#http://103.170.140.8/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
@@ -315,7 +309,8 @@ http://103.55.144.46/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
 http://103.153.39.36:8000/play/a023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv
-http://103.153.39.36:8000/play/a01x
+http://182.50.65.213:8888/udp/239.239.0.32:3001/index.m3u8
+#http://103.153.39.36:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids
 http://103.55.144.46/hls/dis-kid.m3u8
 #http://103.170.140.8/hls/dis-kid.m3u8
