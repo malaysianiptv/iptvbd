@@ -223,8 +223,8 @@ http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Entertainment", Redbull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Entertainment", Sony Pix HD
-http://103.55.144.46/hls/sonypixhd.m3u8
-#http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#http://103.55.144.46/hls/sonypixhd.m3u8
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png"  group-title="English Movies", Lotus Macau
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Entertainment", MN+ HD
@@ -261,8 +261,8 @@ http://103.112.55.107:9090/play/a02q/index.m3u8
 http://103.112.55.107:9090/play/a02g/index.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://103.55.144.46/hls/sonysix.m3u8
-#http://103.112.55.107:9090/play/a00o/index.m3u8
+#http://103.55.144.46/hls/sonysix.m3u8
+http://103.112.55.107:9090/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
 http://103.112.55.107:9090/play/a006/index.m3u8
 #http://103.55.144.46/hls/sonyten1.m3u8
@@ -281,7 +281,8 @@ http://103.112.55.107:9090/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://103.55.144.46/hls/select2.m3u8
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#http://103.55.144.46/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
