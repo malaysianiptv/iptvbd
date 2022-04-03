@@ -145,7 +145,8 @@ http://tv2.ebox.live:8080/live/sony-sab.m3u8
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #http://103.153.39.36:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2
-http://103.55.144.46/hls/stargold2hd.m3u8
+http://182.50.65.213:8888/udp/239.239.0.31:3001/index.m3u8
+#http://103.55.144.46/hls/stargold2hd.m3u8
 #http://180.178.130.180:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://tv2.ebox.live:8080/live/star-gold.m3u8
@@ -185,11 +186,13 @@ http://103.153.39.36:8000/play/a01l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment", History Channel
 #http://103.153.39.36:8000/play/a013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment", National Geographic HD
-http://103.149.130.122:8089/35/index.m3u8
+http://182.50.65.213:8888/udp/239.239.0.01:3001/index.m3u8
+#http://103.149.130.122:8089/35/index.m3u8
 #http://103.55.144.46/hls/ngohd.m3u8
 #https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Infotainment", National Geographic Wild
-http://103.55.144.46/hls/wild.m3u8
+http://182.50.65.213:8888/udp/239.239.0.03:3001/index.m3u8
+#http://103.55.144.46/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Infotainment", Discovery HD
 http://103.149.130.122:8089/43/index.m3u8
 #http://103.55.144.46/hls/discovery.m3u8
@@ -252,15 +255,15 @@ http://190.171.101.36/HBO/tracks-v1a1/mono.m3u8
 #http://103.55.144.46/hls/star-worldhd.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/STAR_World_Premiere.jpg" group-title="Entertainment", Star World Premiere HD
-http://103.112.55.107:9090/play/a002/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="Entertainment", Star Movies HD
-http://103.112.55.107:9090/play/a024/index.m3u8
+http://182.50.65.213:8888/udp/239.239.0.17:3001/index.m3u8
 #http://103.55.144.46/hls/starmovies.m3u8
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Star_Movies_Select_HD.png" group-title="Entertainment", Star Movies Select HD
-http://103.112.55.107:9090/play/a02u/index.m3u8
+http://182.50.65.213:8888/udp/239.239.0.20:3001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="Entertainment", Discovery ID
-http://103.112.55.107:9090/play/a02q/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
@@ -299,7 +302,8 @@ http://103.149.130.122:8089/79/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
-http://103.153.39.36:8000/play/a01y
+http://182.50.65.213:8888/udp/239.239.0.39:3001/index.m3u8
+#http://103.153.39.36:8000/play/a01y
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax HD (Backup)
 http://210.210.155.35:80/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="Kids", ANIPlus
