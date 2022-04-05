@@ -79,15 +79,15 @@ http://103.149.130.122:8089/66/index.m3u8
 #http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #http://103.55.144.46/hls/colorsbangla.m3u8
 #http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
-http://103.149.130.122:8089/34/index.m3u8
-#http://103.112.55.107:9090/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
+http://103.135.133.21/hls/stream2.m3u8
+#http://103.149.130.122:8089/34/index.m3u8
 #http://103.55.144.46/hls/zeebanglahd.m3u8
 #http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-http://103.149.130.122:8089/30/index.m3u8
-#http://103.112.55.107:9090/play/a01q/index.m3u8
+http://103.135.133.21/hls/stream1.m3u8
+#http://103.149.130.122:8089/30/index.m3u8
 #http://103.55.144.46/hls/starjalsha.m3u8
 #http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
