@@ -264,9 +264,9 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network
-
+http://103.139.171.5:5001/live.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
-
+http://103.139.171.5:5001/live.php?c=Sony_Yay_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel
 http://103.153.39.36:8000/play/a01y
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Kids",Animax HD (Backup)
@@ -274,21 +274,23 @@ http://210.210.155.35:80/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="Kids", ANIPlus
 http://210.210.155.35/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden
-http://103.153.39.36:8000/play/a021
+http://103.139.171.5:5001/live.php?c=sonic_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
 http://144.217.70.181:9587/hin2/POGO/index.m3u8
 #http://103.153.39.36:8000/play/a022
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick
-http://182.50.65.213:8888/udp/239.239.0.22:3001/index.m3u8
+http://103.139.171.5:5001/live.php?c=Nickelodeon&q=800&e=junk.m3u8
+#http://182.50.65.213:8888/udp/239.239.0.22:3001/index.m3u8
 #http://103.153.39.36:8000/play/a01z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
-http://tv2.ebox.live:8080/live/nick.m3u8
+http://103.139.171.5:5001/live.php?c=Nick_Junior&q=800&e=junk.m3u8
+#http://tv2.ebox.live:8080/live/nick.m3u8
 #http://103.153.39.36:8000/play/a023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv
 http://182.50.65.213:8888/udp/239.239.0.32:3001/index.m3u8
 #http://103.153.39.36:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids
-http://103.55.144.46/hls/dis-kid.m3u8
+http://103.139.171.5:5001/live.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
 
 
 
